@@ -3,7 +3,7 @@
     "name": "YouTube Search Context Menu",
     "version": "1.0",
     "description": "Right-click to search selected text on YouTube",
-    "permissions": ["contextMenus", "tabs"],
+    "permissions": ["contextMenus"],
     "background": {
         "service_worker": "background.js"
     },
