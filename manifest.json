@@ -1,8 +1,8 @@
 {
     "manifest_version": 3,
     "name": "YouTube Search Context Menu",
-    "version": "1.0",
-    "description": "Right-click to search selected text on YouTube",
+    "version": "1.1",
+    "description": "Right-click to search selected text on YouTube instantly!",
     "permissions": ["contextMenus"],
     "background": {
         "service_worker": "background.js"
